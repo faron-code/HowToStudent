@@ -6,7 +6,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/内容许可-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
-[![官方来源](https://img.shields.io/badge/来源-仅官方文件-orange.svg)#-内容标准)
+[![官方来源](https://img.shields.io/badge/来源-仅官方文件-orange.svg)](#-内容标准本项目的底线)
 [![最后更新](https://img.shields.io/badge/最后更新-2026.10-blue.svg)]()
 
 **📖 开始阅读：** [`docs/官方查询入口大全.md`](./docs/官方查询入口大全.md) —— 学籍学历、升学考研、竞赛白名单、考试报名、资助贷款、医保征信、维权防骗、学生免费权益的**官方入口导航**（已逐条核实）
